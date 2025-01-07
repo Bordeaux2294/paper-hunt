@@ -2,8 +2,8 @@
 <br/>
 
 <p align="center">
-<img src="docs/logo-light.webp#gh-light-mode-only" width="350" />
-<img src="docs/logo-dark.webp#gh-dark-mode-only" width="350" />
+<img src="docs/logo-light.svg#gh-light-mode-only" width="350" />
+<img src="docs/logo-dark.svg#gh-dark-mode-only" width="350" />
 </p>
 
 <br/>
